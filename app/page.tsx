@@ -24,7 +24,7 @@ export default function Home() {
             <div className="relative">
               <div className="relative z-10">
                 <Image
-                  src="/placeholder.svg?height=500&width=600"
+                  src="/https://www.fibovest.com/Media/Image/img-slide01.png"
                   alt="Trading Dashboard"
                   width={600}
                   height={500}
@@ -213,7 +213,7 @@ export default function Home() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="order-2 md:order-1 relative">
               <Image
-                src="/placeholder.svg?height=600&width=300"
+                src="/https://www.fibovest.com/Media/Image/img-slide01.png"
                 alt="Trading App"
                 width={300}
                 height={600}
